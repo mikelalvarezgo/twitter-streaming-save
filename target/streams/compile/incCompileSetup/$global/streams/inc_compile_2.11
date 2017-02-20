@@ -1,0 +1,1026 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+52 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/Analytics.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/Location$$anonfun$format$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/Location$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/Location.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/TweetInfo$$anonfun$format$2.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/TweetInfo$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/TweetInfo.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$1$$anonfun$2.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$1$$anonfun$apply$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$3.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$delayedInit$body.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions$$anonfun$listen$1$$anonfun$apply$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions$$anonfun$listen$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Config$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Config$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Config.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Filters$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Filters.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Logger$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Logger.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/SparkLoad$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/SparkLoad.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/TwitterCredentials$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/TwitterCredentials$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/TwitterCredentials.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$$anonfun$dbObject$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$$anonfun$to$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$$anonfun$toMongoDBObject$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/DAO.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Id$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Id.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoContext$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoContext.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoDbComponent$class.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoDbComponent.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/AbsTweetInfoDAO.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$create$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$get$1$$anonfun$apply$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$get$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$getAll$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$getLatest$1$$anonfun$apply$2.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$getLatest$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$remove$1.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$.class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO.class
+binary dependencies:
+53 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.11/jars/spark-streaming-twitter_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-commons_2.11/jars/casbah-commons_2.11-3.1.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> /Users/mikelalvarezgo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.11/jars/spark-streaming-twitter_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Users/mikelalvarezgo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-core_2.11/jars/casbah-core_2.11-3.1.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-commons_2.11/jars/casbah-commons_2.11-3.1.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-core_2.11/jars/casbah-core_2.11-3.1.1.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+27 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+9 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> /Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala
+inheritance external dependencies:
+0 items
+class names:
+52 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> twitterApps.Analytics
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps.models.Location
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps.models.Location$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps.models.Location$$anonfun$format$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps.models.TweetInfo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps.models.TweetInfo$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps.models.TweetInfo$$anonfun$format$2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave$$anonfun$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave$$anonfun$1$$anonfun$2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave$$anonfun$1$$anonfun$apply$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave$$anonfun$3
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps.TweetsSave$delayedInit$body
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> utils.Actions
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> utils.Actions$$anonfun$listen$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> utils.Actions$$anonfun$listen$1$$anonfun$apply$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> utils.Actions$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> utils.Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> utils.Config$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> utils.Config$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> utils.Filters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> utils.Filters$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> utils.Logger
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> utils.Logger$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> utils.SparkLoad
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> utils.SparkLoad$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> utils.TwitterCredentials
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> utils.TwitterCredentials$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> utils.TwitterCredentials$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> utils.mongo.Converters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> utils.mongo.Converters$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> utils.mongo.Converters$$anonfun$dbObject$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> utils.mongo.Converters$$anonfun$to$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> utils.mongo.Converters$$anonfun$toMongoDBObject$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> utils.mongo.DAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> utils.mongo.Id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> utils.mongo.Id$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> utils.mongo.MongoContext
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> utils.mongo.MongoContext$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> utils.mongo.MongoDbComponent
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> utils.mongo.MongoDbComponent$class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.AbsTweetInfoDAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$create$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$get$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$get$1$$anonfun$apply$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$getAll$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$getLatest$1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$getLatest$1$$anonfun$apply$2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils.mongo.TweetInfoDAO$$anonfun$remove$1
+used names:
+616 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> App
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> Logger
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> SparkLoad
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> TwitterCredentials
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> twitterApps
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> &&
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> ==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> A
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Boolean
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> ClassManifest
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> ClassManifestFactory
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Converters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> DAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Date
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> DefaultJsonProtocol
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Double
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> DoubleJsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Function2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Function6
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> GeoLocation
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> IndexOutOfBoundsException
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Instant
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> IntJsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Iterator
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> JF
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Location
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Long
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> LongJsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> MongoDBObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> MongoDbComponent
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> None
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> P1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> P2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> P3
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> P4
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> P5
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> P6
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Product
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> RootJsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> ScalaRunTime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Serializable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Some
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Statics
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Status
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> StringJsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T0
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T3
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T4
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T5
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> T6
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Try
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Tuple2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Tuple6
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> TweetInfo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> Twitter
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> TwitterUtils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> User
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> _toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> anyHash
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> apache
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> asInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> casbah
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> classType
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> com
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> commons
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> createdAt
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> dbObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> doubleHash
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> eq
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> finalizeHash
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> format
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> geo_location
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getCreatedAt
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getFollowersCount
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getGeoLocation
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getId
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getLatitude
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getLongitude
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getName
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getNano
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> getUser
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> isInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> json
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> jsonFormat2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> jsonFormat6
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> latitude
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> longHash
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> longitude
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> mix
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> models
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> mongodb
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> org
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> reflect
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> runtime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> spark
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> spray
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> streaming
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> to
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> toInstant
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> toLong
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> tw
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> tweet_id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitter
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitter4j
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> twitterApps
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> typedProductIterator
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> user_followers
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> user_id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> user_name
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> util
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> ||
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> <repeated>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> ???
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Action
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Analytics
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> ClassTag
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Content
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Function1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Logger
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Long
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> RDD
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Status
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> StringContext
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> T
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Try
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> TweetInfo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> TweetInfoDAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> TweetsSave
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> U
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> Unit
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> _$7
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> content2TwitterInfo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> count
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> create
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> filter
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> foreach
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> getInt
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> getString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> getText
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> info
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> listen
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> logger
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> map
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> materializeClassTag
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> models
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> name
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> s
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> tweet
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> tweetInfoDao
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> tweets
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitter4j
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> twitterApps
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> warn
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> when
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> :+
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> <refinement>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> A
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Action
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Actions
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> B
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> CanBuildFrom
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Coll
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Content
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Function1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> List
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Nil
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> RDD
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> ReceiverInputDStream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> StreamingContext
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> That
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> U
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> Unit
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> _root_
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> action
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> actions
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> actions_=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> apache
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> canBuildFrom
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> dstream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> f
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> foreach
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> foreachRDD
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> immutable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> org
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> rdd
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> spark
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> ssc
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> start
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> stream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> streaming
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> AppName
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> CassandraHost
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> CassandraKeySpace
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> ConfigFactory
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> SparkMaster
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> WindowSeconds
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> com
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> load
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> typesafe
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> ++
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> <repeated>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> A
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> B
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> CanBuildFrom
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Coll
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Filters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> GenTraversableOnce
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Seq
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> T0
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> That
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> Unit
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> _filters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> _filters_=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> _root_
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> canBuildFrom
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> collection
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> filters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> synchronized
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> toSeq
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> ?0
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> Class
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> Logger
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> LoggerFactory
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> getClass
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> getLogger
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> getName
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> org
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> slf4j
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> <refinement>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Actions
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> AppName
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Authorization
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> CassandraHost
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Duration
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Filters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Long
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> None
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Option
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> ReceiverInputDStream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Seconds
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Seq
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> SparkConf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> SparkContext
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> SparkLoad
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> SparkMaster
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> Status
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> StorageLevel
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> StreamingContext
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> TwitterUtils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> WindowSeconds
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> apache
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> conf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> createStream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> filters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> getInt
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> getString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> masterConfig
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> nameConfig
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> org
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> sc
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> set
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> setAppName
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> setMaster
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> spark
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> ssc
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> streaming
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> toLong
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> twitter
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> twitter4j
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> windowTime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> <refinement>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> AccessToken
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> AccessTokenSecret
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> Config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> ConsumerKey
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> ConsumerSecret
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> System
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> TwitterCredentials
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> config
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> getString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> java
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> lang
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> setProperty
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> Converters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> DBObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> Function1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> I
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> JSON
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> JsValue
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> JsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> JsonParser
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> O
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> ParserInput
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> StringBasedParserInput
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> T
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> T0
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> _root_
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> asInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> com
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> dbo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> i
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> implicitly
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> json
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> mongodb
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> parse
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> prettyPrint
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> read
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> spray
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> toMongoDBObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> util
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> write
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Boolean
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Function1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> List
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Option
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Ordering
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Stream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> T
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Try
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> U
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> Unit
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> _root_
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> util
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> &&
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> ==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> A
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Boolean
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> IndexOutOfBoundsException
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Iterator
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> None
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Product
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> ScalaRunTime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Serializable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> Some
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> T
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> T0
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> _hashCode
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> _toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> asInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> eq
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> implicitConversions
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> isInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> language
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> runtime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> typedProductIterator
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> value
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> ||
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> Db
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> Imports
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> MongoClient
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> MongoContext
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> MongoDB
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> MongoDbComponent
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> MongoHost
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> MongoPort
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> Tuple3
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> casbah
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> com
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> db
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> mongoClient
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> mongoHost
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> mongoPort
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> mongodb
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> $conforms
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> &&
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ->
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> <:<
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> <byname>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> <init>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> <repeated>
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ???
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> A
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> AbsTweetInfoDAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Amount
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Any
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> AnyRef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ArrowAssoc
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> B
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Boolean
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> BulkWriteOperation
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> BulkWriteRequestBuilder
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> BulkWriteResult
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> C
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> CanBuildFrom
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Coll
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Converters
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> CursorType
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> DAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> DBObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Date
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Duration
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Function1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Id
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> IdAccount
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Imports
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> IndexOutOfBoundsException
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Int
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Iterable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Iterator
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> JsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> List
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> MongoCollection
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> MongoCursor
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> MongoDB
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> MongoDBObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> MongoDbComponent
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> None
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Nothing
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Object
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Option
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Ordering
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Predef
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Product
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ReadPreference
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> RootJsonFormat
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ScalaRunTime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Serializable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Some
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Statics
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Stream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> String
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> T
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> T0
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> T1
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> T2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> T3
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> That
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Try
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Tuple2
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Tuple3
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> TweetInfo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> TweetInfoDAO
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> TypeImports
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> U
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> Unit
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> _root_
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> _toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> anyHash
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> apply
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> asInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> bulk
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> canBuildFrom
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> casbah
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> com
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> commons
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> database
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> db
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> dbObject
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> eq
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> execute
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> finalizeHash
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> find
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> findOne
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> format
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> head
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> idAcc
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> idAccount
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> immutable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> initializeOrderedBulkOperation
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> insert
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> isAcknowledged
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> isInstanceOf
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> map
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> mix
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> models
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> mongo
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> mongoHost
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> mongoPort
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> mongodb
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> obj
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> option2Iterable
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> package
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> remove
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> require
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> runtime
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> scala
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> sort
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> stateAcc
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> to
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> toStream
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> toString
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> tweet_info
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> twitterApps
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> typedProductIterator
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> util
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> utils
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> value
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> ||
+product stamps:
+52 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/Analytics.class -> lastModified(1487627502000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$1$$anonfun$2.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$1$$anonfun$apply$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$$anonfun$3.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave$delayedInit$body.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/TweetsSave.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/Location$$anonfun$format$1.class -> lastModified(1487632050000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/Location$.class -> lastModified(1487632050000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/Location.class -> lastModified(1487632050000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/TweetInfo$$anonfun$format$2.class -> lastModified(1487632050000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/TweetInfo$.class -> lastModified(1487632050000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/twitterApps/models/TweetInfo.class -> lastModified(1487632050000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions$$anonfun$listen$1$$anonfun$apply$1.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions$$anonfun$listen$1.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions$class.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Actions.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Config$.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Config$class.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Config.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Filters$class.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Filters.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Logger$class.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/Logger.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/SparkLoad$class.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/SparkLoad.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/TwitterCredentials$.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/TwitterCredentials$class.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/TwitterCredentials.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/AbsTweetInfoDAO.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$$anonfun$dbObject$1.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$$anonfun$to$1.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$$anonfun$toMongoDBObject$1.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters$.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Converters.class -> lastModified(1487627503000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/DAO.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Id$.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/Id.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoContext$.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoContext.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoDbComponent$class.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/MongoDbComponent.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$create$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$get$1$$anonfun$apply$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$get$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$getAll$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$getLatest$1$$anonfun$apply$2.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$getLatest$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$$anonfun$remove$1.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO$.class -> lastModified(1487632005000)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/target/scala-2.11/classes/utils/mongo/TweetInfoDAO.class -> lastModified(1487632005000)
+source stamps:
+14 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> hash(3efe999bb8f3b941eafd211ca1d766af63a4cc7f)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> hash(6634279a11b61d52f130295077ea70ad2c86c72a)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> hash(e4e3a4679017f4d1b9a5de7997da98dc0fc14811)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> hash(2fd84c302351ed0da88d58c5f6bedaf3755b203b)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> hash(25c1dd044a48455090d806daca566b9a106f0d5c)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> hash(22f7eee577e8a797eb26bb8ba45f04c66a9933a2)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> hash(44140ca4bdc7e31d9697c2b21e8e993a2d70616e)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> hash(426847a53545e74c78659ca260049cfcce47745a)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> hash(432954806952c7c2441433d08d75b2d7257c1acc)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> hash(465c4d6cdb561ccbd2a113f5a9529c93b2cdc513)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> hash(487bdb370f5696afbcf6abb674aa6c6476802d15)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> hash(e3376fabb76a67b83d9bc23d7d6bc2934e7e7f15)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> hash(f5f5d6bace6b3bd02971f62623309133edeffafb)
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> hash(ae7448bcb7dcde0fd45dae4819400c30acbaccb3)
+binary stamps:
+12 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/mikelalvarezgo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042454000)
+/Users/mikelalvarezgo/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> lastModified(1430920873000)
+/Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.2.1.jar -> lastModified(1422926103000)
+/Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.11/jars/spark-streaming-twitter_2.11-1.2.1.jar -> lastModified(1422926000000)
+/Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-1.2.1.jar -> lastModified(1422926026000)
+/Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-commons_2.11/jars/casbah-commons_2.11-3.1.1.jar -> lastModified(1456842842000)
+/Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-core_2.11/jars/casbah-core_2.11-3.1.1.jar -> lastModified(1456842838000)
+/Users/mikelalvarezgo/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> lastModified(1455553232000)
+/Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/Users/mikelalvarezgo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar -> lastModified(1364244734000)
+/Users/mikelalvarezgo/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar -> lastModified(1356264771000)
+class names:
+12 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mikelalvarezgo/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.Config
+/Users/mikelalvarezgo/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> spray.json.StandardFormats
+/Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.2.1.jar -> org.apache.spark.rdd.RDD
+/Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.11/jars/spark-streaming-twitter_2.11-1.2.1.jar -> org.apache.spark.streaming.twitter.TwitterUtils$
+/Users/mikelalvarezgo/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-1.2.1.jar -> org.apache.spark.streaming.StreamingContext
+/Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-commons_2.11/jars/casbah-commons_2.11-3.1.1.jar -> com.mongodb.casbah.commons.MongoDBObject
+/Users/mikelalvarezgo/.ivy2/cache/org.mongodb/casbah-core_2.11/jars/casbah-core_2.11-3.1.1.jar -> com.mongodb.casbah.MongoCursor
+/Users/mikelalvarezgo/.ivy2/cache/org.mongodb/mongo-java-driver/jars/mongo-java-driver-3.2.2.jar -> com.mongodb.BulkWriteRequestBuilder
+/Users/mikelalvarezgo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Product
+/Users/mikelalvarezgo/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar -> org.slf4j.Logger
+/Users/mikelalvarezgo/.ivy2/cache/org.twitter4j/twitter4j-core/jars/twitter4j-core-3.0.3.jar -> twitter4j.GeoLocation
+internal apis:
+14 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwneHHIQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLXfdmHQABm5vdGlmeXNxAH4ADKSguPZ0AAdDb250ZW50c3EAfgAMBZitTXQABHdhaXRzcQB+AAyBOcuUdAANJGFzSW5zdGFuY2VPZnNxAH4ADPKRt1B0AAZsb2dnZXJzcQB+AAz8F7HedAAJQW5hbHl0aWNzc3EAfgAMMMhqm3QABmVxdWFsc3NxAH4ADK3WdE90AAxhc0luc3RhbmNlT2ZzcQB+AAytHLAKdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAzkls6FdAAKbmFtZUNvbmZpZ3NxAH4ADIcTYX10AAxzeW5jaHJvbml6ZWRzcQB+AAwKoScEdAACc2NzcQB+AAwASp3CdAANJGlzSW5zdGFuY2VPZnNxAH4ADO8VOct0AAZjb25maWdzcQB+AAx/mgoRdAAEbWFpbnNxAH4ADI0z8f10AANzc2NzcQB+AAwbzoMLdAAJbm90aWZ5QWxsc3EAfgAMK52Q5HQABGNvbmZzcQB+AAxAyD47dAAMaXNJbnN0YW5jZU9mc3EAfgAMc3l2G3QABmZpbHRlcnNxAH4ADJegcSp0AAp3aW5kb3dUaW1lc3EAfgAMdt6uLHQABmxpc3RlbnNxAH4ADP3AB6V0AAxtYXN0ZXJDb25maWdzcQB+AAzw9DcgdAACPT1zcQB+AAzGy9aUdAAFY2xvbmVzcQB+AAy18wSddAAHZmlsdGVyc3NxAH4ADFS2kA10AAZzdHJlYW1zcQB+AAyvQUBgdAAGJGluaXQkc3EAfgAM1Mf47nQACHRvU3RyaW5nc3EAfgAM7QRvYHQABGFyZ3NzcQB+AAyVFC3idAACIT1zcQB+AAzXezKBdAAIZ2V0Q2xhc3NzcQB+AAySrGL/dAACbmVzcQB+AAwwxTgGdAAEd2hlbnNxAH4ADNBcpiN0AAZBY3Rpb25zcQB+AAw+vj6MdAACZXFzcQB+AAyXGTtAdAALZGVsYXllZEluaXRzcQB+AAwWap7EdAACIyNzcQB+AAxVBdsDdAAIZmluYWxpemVzcQB+AAwRkZTNdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAVdHdpdHRlckFwcHMuQW5hbHl0aWNzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCGc3EAfgCBdXEAfgBiAAAAAHNxAH4AgXVxAH4AYgAAAABzcQB+AIF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAACnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAlTcGFya0xvYWRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXV0aWxzc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJ0AAdGaWx0ZXJzcQB+AJhzcQB+AJJ0AAdBY3Rpb25zcQB+AJhzcQB+AJJ0ABJUd2l0dGVyQ3JlZGVudGlhbHNxAH4AmHNxAH4AknQABkxvZ2dlcnEAfgCYc3EAfgCSdAAGQ29uZmlncQB+AJhzcQB+AJJ0AANBcHBzcQB+AJZzcQB+AJl1cQB+AJwAAAACc3EAfgCedAAFc2NhbGFxAH4Ao3NxAH4AknQAC0RlbGF5ZWRJbml0cQB+ALBzcQB+AJJ0AAZPYmplY3RzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCedAAEamF2YXNxAH4AnnQABGxhbmdxAH4Ao3NxAH4AknQAA0FueXEAfgCwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALdHdpdHRlckFwcHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpdgih5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPv6Zm7jzuUHq/SEcoddmr2OkzH8=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUizYhwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCkc0RBdAAGZm9ybWF0dXEAfgAJAAAANnNxAH4AC2M6tg50AAZub3RpZnlzcQB+AAvasVLRdAAHdW5hcHBseXNxAH4AC73w7F50AAhMb2NhdGlvbnNxAH4ACxINhzh0AA5Vc2VyX0ZvbGxvd2Vyc3NxAH4AC/zB9U50AAR3YWl0c3EAfgALAvBq8XQADmNvcHkkZGVmYXVsdCQyc3EAfgALWEo9gnQADSRhc0luc3RhbmNlT2ZzcQB+AAufKDlNdAAIbGF0aXR1ZGVzcQB+AAtSn7ODdAAOY29weSRkZWZhdWx0JDVzcQB+AAsCPMjAdAAITGF0aXR1ZGVzcQB+AAuK6SAWdAAMcHJvZHVjdEFyaXR5c3EAfgALSBeHYXQABmVxdWFsc3NxAH4AC1crPft0AAlMb25naXR1ZGVzcQB+AAsMdYBCdAAMYXNJbnN0YW5jZU9mc3EAfgALFx73oHQADHN5bmNocm9uaXplZHNxAH4ACxG7Vkd0AA0kaXNJbnN0YW5jZU9mc3EAfgALRlFz3HQACGNhbkVxdWFsc3EAfgALMjY1yHQADnVzZXJfZm9sbG93ZXJzc3EAfgAL27rULHQADmNvcHkkZGVmYXVsdCQ0c3EAfgALRxVJ03QADXByb2R1Y3RQcmVmaXhzcQB+AAvXjIsCdAAJbm90aWZ5QWxsc3EAfgALB2BWnHQACWxvbmdpdHVkZXNxAH4AC55GFtd0AAd1c2VyX2lkc3EAfgALOidyZnQADGlzSW5zdGFuY2VPZnNxAH4AC8fi+cJ0AAxHZW9fTG9jYXRpb25zcQB+AAuFhBIUdAAGPGluaXQ+c3EAfgALeAFAAHQADGdlb19sb2NhdGlvbnNxAH4AC56KVgV0AAdVc2VyX0lkc3EAfgALN+dQ9XQABWFwcGx5c3EAfgALnhzut3QAAj09c3EAfgALUgBLN3QABWNsb25lc3EAfgALqFL3DHQACVVzZXJfTmFtZXNxAH4AC85JIix0AAYkaW5pdCRzcQB+AAtgciS7dAAJY3JlYXRlZEF0c3EAfgALak1uiXQACUNyZWF0ZWRBdHNxAH4AC1yncVJ0AA5jb3B5JGRlZmF1bHQkM3NxAH4ACxOdRTR0AARjb3B5c3EAfgALScgYWnQACHRvU3RyaW5nc3EAfgALGXpkdnQACVR3ZWV0SW5mb3NxAH4ACzTC0d10AAIhPXNxAH4AC7We0PJ0AAhnZXRDbGFzc3NxAH4AC6ZWcrd0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC9ebGct0AA5jb3B5JGRlZmF1bHQkNnNxAH4AC3nXYRp0AAJuZXNxAH4AC0rI2mF0AAl1c2VyX25hbWVzcQB+AAsheZOIdAAIVHdlZXRfaWRzcQB+AAsiRwO/dAACZXFzcQB+AAsrDMPfdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALhSc8eXQAE2NvbnRlbnQyVHdpdHRlckluZm9zcQB+AAt5POeNdAAIdHdlZXRfaWRzcQB+AAssdynRdAACIyNzcQB+AAvRpxBTdAAIZmluYWxpemVzcQB+AAtciF5ZdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtsDgeidAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAcdHdpdHRlckFwcHMubW9kZWxzLlR3ZWV0SW5mb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIVMAAlpbmhlcml0ZWRxAH4AhUwAB3BhcmVudHNxAH4AhXhxAH4AonNxAH4AnXVxAH4AgAAAAABzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgChdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC7c3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6dAAEamF2YXNxAH4AunQAAmlvcQB+AL9zcQB+AK50AAdQcm9kdWN0cQB+ALRzcQB+AK50AAZFcXVhbHNxAH4AtHNxAH4ArnQABk9iamVjdHNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunQABGxhbmdxAH4Av3NxAH4ArnQAA0FueXEAfgC0c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAG3R3aXR0ZXJBcHBzLm1vZGVscy5Mb2NhdGlvbnVxAH4AlQAAAABxAH4AmXVxAH4AmwAAAABzcQB+AJ1xAH4Ao3NxAH4AnXNxAH4ApXNxAH4AnXVxAH4AgAAAAABzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCsAAAABnNxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgC9cQB+AL9zcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunQAAmlvcQB+AL9zcQB+AK5xAH4AyXEAfgDmc3EAfgCudAAGRXF1YWxzcQB+AOZzcQB+AK5xAH4AzXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunEAfgDTcQB+AL9zcQB+AK5xAH4A1XEAfgDmc3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAG3R3aXR0ZXJBcHBzLm1vZGVscy5Mb2NhdGlvbnVxAH4AlQAAAAB+cQB+AJd0AAZNb2R1bGV1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4ArAAAAARzcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALpxAH4AvXEAfgC/c3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AMVzcQB+ALp0AAJpb3EAfgC/c3EAfgCucQB+AM1zcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AMVzcQB+ALpxAH4A03EAfgC/c3EAfgCucQB+ANVxAH4BDXNxAH4AgnEAfgCPdXEAfgCQAAAAAHNxAH4AkgB0ABx0d2l0dGVyQXBwcy5tb2RlbHMuVHdlZXRJbmZvdXEAfgCVAAAAAHEAfgEAdXEAfgCbAAAAAHNxAH4AnXEAfgCjc3EAfgCdc3EAfgClc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4AgAAAAABzcQB+AJ11cQB+AKwAAAAEc3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6cQB+AL1xAH4Av3NxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDFc3EAfgC6dAACaW9xAH4Av3NxAH4ArnEAfgDNc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDFc3EAfgC6cQB+ANNxAH4Av3NxAH4ArnEAfgDVcQB+AS91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAt0d2l0dGVyQXBwc3NxAH4BQ3QAEnR3aXR0ZXJBcHBzLm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl3HkVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKL1VzZXJzL21pa2VsYWx2YXJlemdvL3JlcG9zaXRvcmllcy9TcGFyay1Ud2l0dGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRmNCeaEbYdUvEwKVB36nCtLIbHKg==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJ3vesAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3OYfBnQABm5vdGlmeXNxAH4ADIX36oF0AAdDb250ZW50c3EAfgAMxWHD4XQABHdhaXRzcQB+AAzkKz+OdAANJGFzSW5zdGFuY2VPZnNxAH4ADLrImCJ0AAZwcnVlYmFzcQB+AAzjgo8zdAAGbG9nZ2Vyc3EAfgAM3/3qcHQABmVxdWFsc3NxAH4ADMrrM/x0AAxhc0luc3RhbmNlT2ZzcQB+AAxPRx5sdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAzMRI2DdAAKbmFtZUNvbmZpZ3NxAH4ADAl83hN0AAxzeW5jaHJvbml6ZWRzcQB+AAxrsmu2dAACc2NzcQB+AAyc7lDudAANJGlzSW5zdGFuY2VPZnNxAH4ADJFTXUx0AAZjb25maWdzcQB+AAy8EZAcdAAEbWFpbnNxAH4ADGxzecN0AANzc2NzcQB+AAwmGuTidAAJbm90aWZ5QWxsc3EAfgAMUbMSn3QABGNvbmZzcQB+AAwNz8JSdAAMaXNJbnN0YW5jZU9mc3EAfgAMlMm1oHQABmZpbHRlcnNxAH4ADGq413N0AApUd2VldHNTYXZlc3EAfgAMSAtiGXQACndpbmRvd1RpbWVzcQB+AAyQcnx3dAAGbGlzdGVuc3EAfgAMBxBqwHQADHR3ZWV0SW5mb0Rhb3NxAH4ADM4jsDZ0AAxtYXN0ZXJDb25maWdzcQB+AAyPi7VZdAACPT1zcQB+AAxJnOdEdAAFY2xvbmVzcQB+AAwTxAzmdAAHZmlsdGVyc3NxAH4ADK0PpTF0AAZzdHJlYW1zcQB+AAw1ykZldAAGJGluaXQkc3EAfgAMP+htIHQACHRvU3RyaW5nc3EAfgAMmoqusXQABGFyZ3NzcQB+AAy/yHepdAACIT1zcQB+AAw4H46UdAAIZ2V0Q2xhc3NzcQB+AAxUE6c2dAACbmVzcQB+AAydMzXJdAAEd2hlbnNxAH4ADI2lnSh0AAZBY3Rpb25zcQB+AAwB3SSedAACZXFzcQB+AAynvrOKdAALZGVsYXllZEluaXRzcQB+AAwdh13IdAACIyNzcQB+AAzwPzLQdAAIZmluYWxpemVzcQB+AAxu+uo0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBreHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWdHdpdHRlckFwcHMuVHdlZXRzU2F2ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBrTAAJaW5oZXJpdGVkcQB+AGtMAAdwYXJlbnRzcQB+AGt4cQB+AIpzcQB+AIV1cQB+AGYAAAAAc3EAfgCFdXEAfgBmAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBscQB+AHV1cQB+AHYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCUeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIl0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AiXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArnNxAH4AeABxAH4AK3VxAH4AewAAAABzcQB+AKF0AARVbml0cQB+AKd1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCUeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB+dAAFUGxhaW5xAH4ATXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AolsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AiXNxAH4AoXQABUFycmF5cQB+AKd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AoXQABlN0cmluZ3NxAH4ApXNxAH4AqHVxAH4AqwAAAANzcQB+AK10AARqYXZhc3EAfgCtdAAEbGFuZ3EAfgCyc3EAfgCFdXEAfgDJAAAAC3NxAH4AoXQACUFuYWx5dGljc3NxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK10AAt0d2l0dGVyQXBwc3EAfgCyc3EAfgChdAAJU3BhcmtMb2Fkc3EAfgClc3EAfgCodXEAfgCrAAAAAnNxAH4ArXQABXV0aWxzcQB+ALJzcQB+AKF0AAdGaWx0ZXJzcQB+AN9zcQB+AKF0AAdBY3Rpb25zcQB+AN9zcQB+AKF0ABJUd2l0dGVyQ3JlZGVudGlhbHNxAH4A33NxAH4AoXQABkxvZ2dlcnEAfgDfc3EAfgChdAAGQ29uZmlncQB+AN9zcQB+AKF0AANBcHBxAH4Ap3NxAH4AoXQAC0RlbGF5ZWRJbml0cQB+AKdzcQB+AKF0AAZPYmplY3RxAH4AzXNxAH4AoXQAA0FueXEAfgCndXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALdHdpdHRlckFwcHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpdxtbydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5OOkZ5AX9NG5pd55l9qY3A/BSBE=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCOIV1QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuPKwO3QABm5vdGlmeXNxAH4ADNn7X+t0AAdDb250ZW50c3EAfgAM9VffqXQABHdhaXRzcQB+AAz8ZP3EdAANJGFzSW5zdGFuY2VPZnNxAH4ADJ6EDr90AAZlcXVhbHNzcQB+AAxgEj2bdAAMYXNJbnN0YW5jZU9mc3EAfgAM540jo3QADHN5bmNocm9uaXplZHNxAH4ADGJdlgt0AA0kaXNJbnN0YW5jZU9mc3EAfgAMtTleZnQAA3NzY3NxAH4ADFsnIqZ0AAlub3RpZnlBbGxzcQB+AAxA95wxdAAMaXNJbnN0YW5jZU9mc3EAfgAMM1rSZnQABmxpc3RlbnNxAH4ADJ2rlgp0AAI9PXNxAH4ADBE80Wt0AAVjbG9uZXNxAH4ADPYCCy90AAZzdHJlYW1zcQB+AAyOUqx3dAAGJGluaXQkc3EAfgAMA7IMbnQACHRvU3RyaW5nc3EAfgAMvJFmJHQAAiE9c3EAfgAM0ByLgXQACGdldENsYXNzc3EAfgAMOxvkRnQAAm5lc3EAfgAMvzWOenQABHdoZW5zcQB+AAwH9u2SdAAHQWN0aW9uc3NxAH4ADKtv3OV0AAZBY3Rpb25zcQB+AAzK68g1dAACZXFzcQB+AAwZZojRdAACIyNzcQB+AAzpt6kRdAAIZmluYWxpemVzcQB+AAym1PgjdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAANdXRpbHMuQWN0aW9uc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl2CKHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL21pa2VsYWx2YXJlemdvL3JlcG9zaXRvcmllcy9TcGFyay1Ud2l0dGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQv2EwwI1HtDaiNWMX2vtrzdVsgOw==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOEEwvQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5qpSgXQABm5vdGlmeXNxAH4ADFn2rCt0AAR3YWl0c3EAfgAM86XI3XQADSRhc0luc3RhbmNlT2ZzcQB+AAztBkmDdAAGZXF1YWxzc3EAfgAMA1gh9nQADGFzSW5zdGFuY2VPZnNxAH4ADCPmrgx0AAxzeW5jaHJvbml6ZWRzcQB+AAwMoKT3dAANJGlzSW5zdGFuY2VPZnNxAH4ADKgh7RZ0AAtTcGFya01hc3RlcnNxAH4ADAzociZ0AAZjb25maWdzcQB+AAyZxwAbdAAHQXBwTmFtZXNxAH4ADKTOtmp0AAlub3RpZnlBbGxzcQB+AAzRU4DWdAAMaXNJbnN0YW5jZU9mc3EAfgAMMFXKbnQABkNvbmZpZ3NxAH4ADB2G9nB0AAI9PXNxAH4ADHyMy4t0AAVjbG9uZXNxAH4ADCnqsqd0AAYkaW5pdCRzcQB+AAzBM5w+dAARQ2Fzc2FuZHJhS2V5U3BhY2VzcQB+AAx+vliVdAAIdG9TdHJpbmdzcQB+AAwymkHadAACIT1zcQB+AAx4Ss+UdAAIZ2V0Q2xhc3NzcQB+AAzPRbrfdAANQ2Fzc2FuZHJhSG9zdHNxAH4ADKILKRd0AAJuZXNxAH4ADK+FS7d0AA1XaW5kb3dTZWNvbmRzc3EAfgAMatlJEHQAAmVxc3EAfgAMvnkI2nQAAiMjc3EAfgAMcBk+B3QACGZpbmFsaXplc3EAfgAMwSgzU3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQADHV0aWxzLkNvbmZpZ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AanNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCDc3EAfgB2dAADQW55c3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnQABXNjYWxhcQB+AIlzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAAMdXRpbHMuQ29uZmlndXEAfgBdAAAAAH5xAH4AX3QABk1vZHVsZXVxAH4AYwAAAABzcQB+AGVxAH4Aa3NxAH4AZXNxAH4AbXNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cQB+AEgAAAAAc3EAfgBldXEAfgB0AAAAAnNxAH4AdnEAfgB5c3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnEAfgCFc3EAfgCCcQB+AIdxAH4AiXNxAH4AdnEAfgCLc3EAfgB6c3EAfgB9dXEAfgCAAAAAAnNxAH4AgnEAfgCQcQB+AIl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl2CKHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL21pa2VsYWx2YXJlemdvL3JlcG9zaXRvcmllcy9TcGFyay1Ud2l0dGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQlwd0ESkhFUJDYBtrKVmuaEG8NXA==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYcVd0gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwF+YZgnQABm5vdGlmeXNxAH4ADCzwmpZ0AAR3YWl0c3EAfgAMV+n05XQADSRhc0luc3RhbmNlT2ZzcQB+AAwuCl9LdAAGZXF1YWxzc3EAfgAM68tF1nQADGFzSW5zdGFuY2VPZnNxAH4ADLV2fEJ0AAxzeW5jaHJvbml6ZWRzcQB+AAzcwl4udAANJGlzSW5zdGFuY2VPZnNxAH4ADEmZiFF0AAlub3RpZnlBbGxzcQB+AAxjP0jxdAAMaXNJbnN0YW5jZU9mc3EAfgAMhdrgM3QABmZpbHRlcnNxAH4ADF/vLpp0AAI9PXNxAH4ADOzUsdx0AAVjbG9uZXNxAH4ADJxUEOF0AAdmaWx0ZXJzc3EAfgAMhbtn8XQABiRpbml0JHNxAH4ADGcMkr50AAh0b1N0cmluZ3NxAH4ADC1AVI10AAIhPXNxAH4ADGiihdB0AAhnZXRDbGFzc3NxAH4ADHKwxhd0AAdGaWx0ZXJzc3EAfgAMKdyxgnQAAm5lc3EAfgAMXdnSfnQAAmVxc3EAfgAMZhE9RnQAAiMjc3EAfgAMAmf9GHQACGZpbmFsaXplc3EAfgAMgSVDgHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQADXV0aWxzLkZpbHRlcnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdXRpbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpdgih5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUIvfu5Xfop5frJruLpF8ExmqZM6I=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCpKj1QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFoXWD3QABm5vdGlmeXNxAH4ADMCa23R0AAR3YWl0c3EAfgAMSgMruXQADSRhc0luc3RhbmNlT2ZzcQB+AAwNJTbHdAAGbG9nZ2Vyc3EAfgAM+wlBsnQABmVxdWFsc3NxAH4ADEIhHjl0AAxhc0luc3RhbmNlT2ZzcQB+AAxiB0ivdAAMc3luY2hyb25pemVkc3EAfgAMePAmFXQABkxvZ2dlcnNxAH4ADGMj+Bp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMn2TrtHQACW5vdGlmeUFsbHNxAH4ADMyM7qt0AAxpc0luc3RhbmNlT2ZzcQB+AAw4NfFTdAACPT1zcQB+AAzgRF2cdAAFY2xvbmVzcQB+AAxAcfO2dAAGJGluaXQkc3EAfgAMnjJ0k3QACHRvU3RyaW5nc3EAfgAMzUXNaXQAAiE9c3EAfgAMBEP+7HQACGdldENsYXNzc3EAfgAMdYZAs3QAAm5lc3EAfgAMWNrEu3QAAmVxc3EAfgAM3veh83QAAiMjc3EAfgAMmv+tgHQACGZpbmFsaXplc3EAfgAM3y5hYXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQADHV0aWxzLkxvZ2dlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl2CKHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL21pa2VsYWx2YXJlemdvL3JlcG9zaXRvcmllcy9TcGFyay1Ud2l0dGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABREFAykvcfjHZaXwrIejpk6LXBhbg==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPtEncQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwx+3EnnQABm5vdGlmeXNxAH4ADFH22vt0AAdDb250ZW50c3EAfgAMSX0nKXQABHdhaXRzcQB+AAzKB5wxdAANJGFzSW5zdGFuY2VPZnNxAH4ADJagBFl0AAZlcXVhbHNzcQB+AAzMoAocdAAJU3BhcmtMb2Fkc3EAfgAMrvtwp3QADGFzSW5zdGFuY2VPZnNxAH4ADANPVH50AApuYW1lQ29uZmlnc3EAfgAM9tWul3QADHN5bmNocm9uaXplZHNxAH4ADPDaoPZ0AAJzY3NxAH4ADJ5rph90AA0kaXNJbnN0YW5jZU9mc3EAfgAM8b/tr3QAA3NzY3NxAH4ADF5JUMB0AAlub3RpZnlBbGxzcQB+AAwHyYIZdAAEY29uZnNxAH4ADHbeB8V0AAxpc0luc3RhbmNlT2ZzcQB+AAw3Z8fedAAGZmlsdGVyc3EAfgAMx1WswnQACndpbmRvd1RpbWVzcQB+AAychSXRdAAGbGlzdGVuc3EAfgAMaigRTXQADG1hc3RlckNvbmZpZ3NxAH4ADEG/nQh0AAI9PXNxAH4ADBZyFd50AAVjbG9uZXNxAH4ADOorgvd0AAdmaWx0ZXJzc3EAfgAMegpNCnQABnN0cmVhbXNxAH4ADNiJVJZ0AAYkaW5pdCRzcQB+AAyFJxfSdAAIdG9TdHJpbmdzcQB+AAxIhOYEdAACIT1zcQB+AAxyO2RedAAIZ2V0Q2xhc3NzcQB+AAwad5CPdAACbmVzcQB+AAwB9w3odAAEd2hlbnNxAH4ADM23HvB0AAZBY3Rpb25zcQB+AAwFnKJRdAACZXFzcQB+AAzG6ETwdAACIyNzcQB+AAyUKX7NdAAIZmluYWxpemVzcQB+AAy2Ywq5dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAPdXRpbHMuU3BhcmtMb2FkdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB4c3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHd0AAdGaWx0ZXJzc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAV1dGlsc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCRc3EAfgCEdAAHQWN0aW9uc3EAfgCKc3EAfgCEdAAGT2JqZWN0c3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHQABGphdmFzcQB+AJB0AARsYW5ncQB+AJVzcQB+AIR0AANBbnlzcQB+AIhzcQB+AIt1cQB+AI4AAAACc3EAfgCQdAAFc2NhbGFxAH4AlXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaXYIoeXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvbWlrZWxhbHZhcmV6Z28vcmVwb3NpdG9yaWVzL1NwYXJrLVR3aXR0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEJoR6U1RedMeGWcomAEnPzOR3Ra
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7I82jAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8T4OJ3QABm5vdGlmeXNxAH4ADMrcmH50AAtBY2Nlc3NUb2tlbnNxAH4ADCYd8V10AAR3YWl0c3EAfgAMNRspfXQADSRhc0luc3RhbmNlT2ZzcQB+AAylbQmXdAAGZXF1YWxzc3EAfgAMrTqOTHQADGFzSW5zdGFuY2VPZnNxAH4ADLfKUhF0AAxzeW5jaHJvbml6ZWRzcQB+AAwCWBOxdAALQ29uc3VtZXJLZXlzcQB+AAwo1VNwdAANJGlzSW5zdGFuY2VPZnNxAH4ADFauoyp0ABFBY2Nlc3NUb2tlblNlY3JldHNxAH4ADDIZoA90AAlub3RpZnlBbGxzcQB+AAwcMfdTdAAMaXNJbnN0YW5jZU9mc3EAfgAMjkRB2HQAElR3aXR0ZXJDcmVkZW50aWFsc3NxAH4ADEaLzv10AA5Db25zdW1lclNlY3JldHNxAH4ADIF6SKp0AAI9PXNxAH4ADJnz43V0AAVjbG9uZXNxAH4ADM8gJ1R0AAYkaW5pdCRzcQB+AAzrV3kidAAIdG9TdHJpbmdzcQB+AAxLqeRcdAACIT1zcQB+AAwl5QW7dAAIZ2V0Q2xhc3NzcQB+AAwqo6YRdAACbmVzcQB+AAx7Sz+/dAACZXFzcQB+AAwICWdkdAACIyNzcQB+AAzpCbgAdAAIZmluYWxpemVzcQB+AAxsWqEudAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAYdXRpbHMuVHdpdHRlckNyZWRlbnRpYWxzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBmc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ABh1dGlscy5Ud2l0dGVyQ3JlZGVudGlhbHN1cQB+AFkAAAAAfnEAfgBbdAAGTW9kdWxldXEAfgBfAAAAAHNxAH4AYXEAfgBnc3EAfgBhc3EAfgBpc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cQB+AHAAAAACc3EAfgBycQB+AHVzcQB+AHZzcQB+AHl1cQB+AHwAAAADc3EAfgB+cQB+AIFzcQB+AH5xAH4Ag3EAfgCFc3EAfgBycQB+AIdzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+cQB+AIxxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaXYIoeXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvbWlrZWxhbHZhcmV6Z28vcmVwb3NpdG9yaWVzL1NwYXJrLVR3aXR0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEMpVIBpUsfCRBQz0I11stclfBrM
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTljESAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBsuH/8dAAIZGJPYmplY3RzcQB+AAv21RSMdAAPdG9Nb25nb0RCT2JqZWN0c3EAfgAL4ZS9J3QAAnRvdXEAfgAJAAAAFHNxAH4AC3/nLlB0AAZub3RpZnlzcQB+AAshUOPadAAEd2FpdHNxAH4AC19ak290AA0kYXNJbnN0YW5jZU9mc3EAfgAL5AD1NHQABmVxdWFsc3NxAH4AC9RsYnF0AAxhc0luc3RhbmNlT2ZzcQB+AAsLZIPvdAAKQ29udmVydGVyc3NxAH4AC0zHCK90AAxzeW5jaHJvbml6ZWRzcQB+AAuogrmJdAANJGlzSW5zdGFuY2VPZnNxAH4AC8x/GfF0AAlub3RpZnlBbGxzcQB+AAvlagNvdAAMaXNJbnN0YW5jZU9mc3EAfgALzvjr5HQAAj09c3EAfgAL77jJU3QABWNsb25lc3EAfgALplGATHQACHRvU3RyaW5nc3EAfgALS+4uGXQAAiE9c3EAfgALvmCmA3QACGdldENsYXNzc3EAfgALH+botHQAAm5lc3EAfgALQcj11XQAAmVxc3EAfgALLuL8U3QAAiMjc3EAfgALAMJFmHQACGZpbmFsaXplc3EAfgALFa44S3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFnV0aWxzLm1vbmdvLkNvbnZlcnRlcnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC3V0aWxzLm1vbmdvc3EAfgCLdAAFdXRpbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpdgih5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURlxNbNtWHMvSoRP1qVKck7LNxRM=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8mp3MAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4qwzjnQABm5vdGlmeXNxAH4ADMm2/7Z0AANEQU9zcQB+AAxXY218dAAEd2FpdHNxAH4ADKtOvvx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMr3Us03QABmdldEFsbHNxAH4ADLfXdCx0AAZlcXVhbHNzcQB+AAzChGcRdAAMYXNJbnN0YW5jZU9mc3EAfgAMnzWp7nQADHN5bmNocm9uaXplZHNxAH4ADH6AO9N0AA0kaXNJbnN0YW5jZU9mc3EAfgAMlC2hW3QABmNyZWF0ZXNxAH4ADLLI3Xt0AAlub3RpZnlBbGxzcQB+AAxFIVZQdAAMaXNJbnN0YW5jZU9mc3EAfgAM1gt8FHQABnJlbW92ZXNxAH4ADC/F/oh0AAI9PXNxAH4ADCK3YXR0AAVjbG9uZXNxAH4ADGvw57N0AAh0b1N0cmluZ3NxAH4ADIWMYpZ0AAIhPXNxAH4ADNjqnwh0AANnZXRzcQB+AAzTCFqVdAAIZ2V0Q2xhc3NzcQB+AAzv6PebdAAGbGF0ZXN0c3EAfgAMRUgsxnQABnVwZGF0ZXNxAH4ADCH2t2J0AAJuZXNxAH4ADPd7DqN0AAJlcXNxAH4ADCHqVrd0AAIjI3NxAH4ADF89U5Z0AAhmaW5hbGl6ZXNxAH4ADHC/jcF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0AA91dGlscy5tb25nby5EQU91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AUEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AE1MAAp1cHBlckJvdW5kcQB+AF5MAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AFYAAAAAdAARdXRpbHMubW9uZ28uREFPLlRzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AcnVxAH4AWwAAAABzcQB+AGN0AANBbnlxAH4Aa35yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHt0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AZXNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGZzcQB+AIN1cQB+AEYAAAAAc3EAfgCDdXEAfgBGAAAAAHNxAH4Ag3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBjdAAGT2JqZWN0c3EAfgBpc3EAfgBsdXEAfgBvAAAAA3NxAH4AcXQABGphdmFzcQB+AHF0AARsYW5ncQB+AHZzcQB+AGNxAH4AeXNxAH4AaXNxAH4AbHVxAH4AbwAAAAJzcQB+AHFxAH4AdHEAfgB2dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALdXRpbHMubW9uZ29zcQB+AKJ0AAV1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl3G1vJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL21pa2VsYWx2YXJlemdvL3JlcG9zaXRvcmllcy9TcGFyay1Ud2l0dGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRIe9s3D1aWr7z2q7Z0qmxkdoAtFQ==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwFgAj2QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHAN5qnXdAAEdG9JZHNxAH4AC0PW1HZ0AAd0b1ZhbHVldXEAfgAJAAAAIHNxAH4AC6E/u6t0AAZub3RpZnlzcQB+AAvBZsOGdAAHdW5hcHBseXNxAH4AC41r0I10AAJJZHNxAH4AC29o9PJ0AAR3YWl0c3EAfgALfMTK/nQADSRhc0luc3RhbmNlT2ZzcQB+AAvEFNKhdAAMcHJvZHVjdEFyaXR5c3EAfgAL0wqvpXQABmVxdWFsc3NxAH4AC9YLIAR0AAxhc0luc3RhbmNlT2ZzcQB+AAuWA8LndAAMc3luY2hyb25pemVkc3EAfgALEYVO0HQADSRpc0luc3RhbmNlT2ZzcQB+AAu2OfF/dAAIY2FuRXF1YWxzcQB+AAsK7n/GdAANcHJvZHVjdFByZWZpeHNxAH4ACyox2td0AAlub3RpZnlBbGxzcQB+AAsZYbLkdAAMaXNJbnN0YW5jZU9mc3EAfgALevql13QABjxpbml0PnNxAH4ACxmdPBh0AAVhcHBseXNxAH4AC3hOn7Z0AAI9PXNxAH4AC5SmD290AAVjbG9uZXNxAH4AC4Izfwl0AAYkaW5pdCRzcQB+AAtf2PDCdAAEY29weXNxAH4AC3OghQh0AAh0b1N0cmluZ3NxAH4AC4iNITN0AAIhPXNxAH4AC4SmpGx0AAhnZXRDbGFzc3NxAH4ACwqLXeJ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC5C9CiV0AAJuZXNxAH4AC1CPiAt0AAV2YWx1ZXNxAH4ACwZUaWJ0AAJlcXNxAH4ACwPdgXR0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvMWSbfdAACIyNzcQB+AAukHtk6dAAIZmluYWxpemVzcQB+AAvelUGCdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAveiKF4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOdXRpbHMubW9uZ28uSWR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ac3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHhzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ad3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkXNxAH4AhHEAfgCHc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHQABGphdmFzcQB+AJB0AAJpb3EAfgCVc3EAfgCEdAAHUHJvZHVjdHEAfgCKc3EAfgCEdAAGRXF1YWxzcQB+AIpzcQB+AIR0AAZPYmplY3RzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQcQB+AJtzcQB+AJB0AARsYW5ncQB+AJVzcQB+AIR0AANBbnlxAH4AinNxAH4AWHEAfgBldXEAfgBmAAAAAHNxAH4AaAB0AA51dGlscy5tb25nby5JZHVxAH4AawAAAAB+cQB+AG10AAZNb2R1bGV1cQB+AHEAAAAAc3EAfgBzcQB+AHlzcQB+AHNzcQB+AHtzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VxAH4AggAAAARzcQB+AIRxAH4Ah3NxAH4AiHNxAH4Ai3VxAH4AjgAAAAJzcQB+AJBxAH4Ak3EAfgCVc3EAfgCEcQB+AIdzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQcQB+AJtzcQB+AJB0AAJpb3EAfgCVc3EAfgCEcQB+AKNzcQB+AIhzcQB+AIt1cQB+AI4AAAADc3EAfgCQcQB+AJtzcQB+AJBxAH4AqXEAfgCVc3EAfgCEcQB+AKtxAH4AvnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC3V0aWxzLm1vbmdvc3EAfgDSdAAFdXRpbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpdxtbydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU4zdvq7dqZ7g9m8I9fWvCk05+fxU=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhweKgFXQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwW5sCynQABm5vdGlmeXNxAH4ADFGkPrN0AAhkYXRhYmFzZXNxAH4ADFXeshN0AAlNb25nb0N0eHRzcQB+AAyC2Zq6dAAEd2FpdHNxAH4ADBjBLWd0AA0kYXNJbnN0YW5jZU9mc3EAfgAM/6ZW9XQABmVxdWFsc3NxAH4ADAhwPqh0AAxhc0luc3RhbmNlT2ZzcQB+AAwPf1HcdAALbW9uZ29DbGllbnRzcQB+AAyrEXLAdAAMc3luY2hyb25pemVkc3EAfgAMJ1j/eXQACW1vbmdvSG9zdHNxAH4ADERXj090AAJkYnNxAH4ADHlwz+R0AA0kaXNJbnN0YW5jZU9mc3EAfgAMG0WvR3QADE1vbmdvQ29udGV4dHNxAH4ADPw3A310AAlub3RpZnlBbGxzcQB+AAyrsttCdAAMaXNJbnN0YW5jZU9mc3EAfgAMdfJtP3QACW1vbmdvUG9ydHNxAH4ADKwJVZd0AAI9PXNxAH4ADH7agE10AAVjbG9uZXNxAH4ADMkrAQB0AAYkaW5pdCRzcQB+AAyCrEKEdAAIdG9TdHJpbmdzcQB+AAxBKGD8dAACIT1zcQB+AAw1Ru5jdAAIZ2V0Q2xhc3NzcQB+AAwH8jsRdAAQTW9uZ29EYkNvbXBvbmVudHNxAH4ADLoWbuN0AAJuZXNxAH4ADJOXfj10AAlNb25nb1BvcnRzcQB+AAxEZb4PdAACZXFzcQB+AAyuiyDHdAAJTW9uZ29Ib3N0c3EAfgAM2eWq+HQAAiMjc3EAfgAMFMYSbnQACGZpbmFsaXplc3EAfgAMq4sV2XQACGhhc2hDb2Rlc3EAfgAMqBYuVHQAAkRic3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAHHV0aWxzLm1vbmdvLk1vbmdvRGJDb21wb25lbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHJzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AinQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AfnQAA0FueXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAVzY2FsYXEAfgCRc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAGHV0aWxzLm1vbmdvLk1vbmdvQ29udGV4dHVxAH4AZQAAAAB+cQB+AGd0AAZNb2R1bGV1cQB+AGsAAAAAc3EAfgBtcQB+AHNzcQB+AG1zcQB+AHVzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4AfAAAAAJzcQB+AH5xAH4AgXNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIpxAH4AjXNxAH4AinEAfgCPcQB+AJFzcQB+AH5xAH4Ak3NxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIpxAH4AmHEAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALdXRpbHMubW9uZ29zcQB+ALd0AAV1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl3G1vJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL21pa2VsYWx2YXJlemdvL3JlcG9zaXRvcmllcy9TcGFyay1Ud2l0dGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT19da6zms70Clx9iYjMJEz7e/6+w==
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwivpc1AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAyc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwm5m7q3QABm5vdGlmeXNxAH4ADB6TKRl0AAd1bmFwcGx5c3EAfgAM8lxuOHQACGRhdGFiYXNlc3EAfgAMUiUJnnQADFR3ZWV0SW5mb0RBT3NxAH4ADIe4hI50AAR3YWl0c3EAfgAMlpU6BXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMCHQar3QADSRhc0luc3RhbmNlT2ZzcQB+AAxUT880dAAGZ2V0QWxsc3EAfgAMgfKm7nQADHByb2R1Y3RBcml0eXNxAH4ADFmn9HV0AAZlcXVhbHNzcQB+AAxgUPsxdAAJSWRBY2NvdW50c3EAfgAMYlr6bHQADGFzSW5zdGFuY2VPZnNxAH4ADPv0aCx0AAttb25nb0NsaWVudHNxAH4ADKxPItZ0AAxzeW5jaHJvbml6ZWRzcQB+AAyjDxhkdAAJbW9uZ29Ib3N0c3EAfgAMI+84enQAAmRic3EAfgAMDO/qm3QADSRpc0luc3RhbmNlT2ZzcQB+AAyIcekMdAAGY3JlYXRlc3EAfgAMRQGreHQACGNhbkVxdWFsc3EAfgAMGssVynQADXByb2R1Y3RQcmVmaXhzcQB+AAxLSlzEdAAJbm90aWZ5QWxsc3EAfgAMUp6QIHQABkFtb3VudHNxAH4ADLsqg290AAxpc0luc3RhbmNlT2ZzcQB+AAz5aM9CdAAKdHdlZXRfaW5mb3NxAH4ADByLugt0AAlnZXRMYXRlc3RzcQB+AAzNp0pGdAAJbW9uZ29Qb3J0c3EAfgAMBQDhN3QABjxpbml0PnNxAH4ADMyHonB0AAZyZW1vdmVzcQB+AAxhxGC4dAAFYXBwbHlzcQB+AAzICcAAdAACPT1zcQB+AAzbBkcsdAAFY2xvbmVzcQB+AAz/Eq2JdAAGJGluaXQkc3EAfgAMkvS7V3QADmNvcHkkZGVmYXVsdCQzc3EAfgAM1RJ5fXQABGNvcHlzcQB+AAyD//rAdAAERGF0ZXNxAH4ADDFepEl0AAh0b1N0cmluZ3NxAH4ADFEXl190AAIhPXNxAH4ADIpzib50AANnZXRzcQB+AAzTXfLldAAPQWJzVHdlZXRJbmZvREFPc3EAfgAMU1pFKnQACGdldENsYXNzc3EAfgAMgSbVHHQABmxhdGVzdHNxAH4ADO9j7eN0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADCn7Lqx0AAZ1cGRhdGVzcQB+AAxtVcSKdAACbmVzcQB+AAxPXyqUdAACZXFzcQB+AAzNoSFQdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGmRVPHQAAiMjc3EAfgAM0g0mOHQACGZpbmFsaXplc3EAfgAMAWsMN3QADnByb2R1Y3RFbGVtZW50c3EAfgAM5UWmxHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ae3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGHV0aWxzLm1vbmdvLlR3ZWV0SW5mb0RBT3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCTc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHtMAAlpbmhlcml0ZWRxAH4Ae0wAB3BhcmVudHNxAH4Ae3hxAH4AmHNxAH4Ak3VxAH4AdgAAAABzcQB+AJN1cQB+AHYAAAAAc3EAfgCTdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAlzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCXdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCXc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCxc3EAfgCkcQB+AKdzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwdAAEamF2YXNxAH4AsHQAAmlvcQB+ALVzcQB+AKR0AAdQcm9kdWN0cQB+AKpzcQB+AKR0AAZFcXVhbHNxAH4AqnNxAH4ApHQAEE1vbmdvRGJDb21wb25lbnRzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwdAAFdXRpbHNzcQB+ALB0AAVtb25nb3EAfgC1c3EAfgCkdAAPQWJzVHdlZXRJbmZvREFPcQB+AMRzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJdzcQB+AKR0AANEQU9xAH4AxHVxAH4AogAAAAFzcQB+AKR0AAlUd2VldEluZm9zcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwdAALdHdpdHRlckFwcHNzcQB+ALB0AAZtb2RlbHNxAH4AtXNxAH4ApHQABk9iamVjdHNxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALBxAH4Au3NxAH4AsHQABGxhbmdxAH4AtXNxAH4ApHQAA0FueXEAfgCqc3EAfgB4cQB+AIV1cQB+AIYAAAAAc3EAfgCIAXQAG3V0aWxzLm1vbmdvLkFic1R3ZWV0SW5mb0RBT3VxAH4AiwAAAAB+cQB+AI10AAVUcmFpdHVxAH4AkQAAAABzcQB+AJNxAH4AmXNxAH4Ak3NxAH4Am3NxAH4Ak3VxAH4AdgAAAABzcQB+AJN1cQB+AHYAAAAAc3EAfgCTdXEAfgCiAAAAA3NxAH4AzXNxAH4ApHQAA0RBT3NxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALB0AAV1dGlsc3NxAH4AsHQABW1vbmdvcQB+ALV1cQB+AKIAAAABc3EAfgCkdAAJVHdlZXRJbmZvc3EAfgCoc3EAfgCrdXEAfgCuAAAAA3NxAH4AsHQAC3R3aXR0ZXJBcHBzc3EAfgCwdAAGbW9kZWxzcQB+ALVzcQB+AKRxAH4A3XNxAH4AqHNxAH4Aq3VxAH4ArgAAAANzcQB+ALBxAH4Au3NxAH4AsHEAfgDjcQB+ALVzcQB+AKRxAH4A5XNxAH4AqHNxAH4Aq3VxAH4ArgAAAAJzcQB+ALBxAH4As3EAfgC1c3EAfgB4cQB+AIV1cQB+AIYAAAAAc3EAfgCIAHQAGHV0aWxzLm1vbmdvLlR3ZWV0SW5mb0RBT3VxAH4AiwAAAAB+cQB+AI10AAZNb2R1bGV1cQB+AJEAAAAAc3EAfgCTcQB+AJlzcQB+AJNzcQB+AJtzcQB+AJN1cQB+AHYAAAAAc3EAfgCTdXEAfgB2AAAAAHNxAH4Ak3VxAH4AogAAAARzcQB+AKRxAH4Ap3NxAH4AqHNxAH4Aq3VxAH4ArgAAAAJzcQB+ALBxAH4As3EAfgC1c3EAfgCkcQB+AKdzcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+ALtzcQB+ALB0AAJpb3EAfgC1c3EAfgCkcQB+AN1zcQB+AKhzcQB+AKt1cQB+AK4AAAADc3EAfgCwcQB+ALtzcQB+ALBxAH4A43EAfgC1c3EAfgCkcQB+AOVxAH4BKHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC3V0aWxzLm1vbmdvc3EAfgE8dAAFdXRpbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpdxtbydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUrnRIvLfc3g/UXa5IGUAMMKy6zLM=
+external apis:
+0 items
+source infos:
+14 items
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/Analytics.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/models/TwitterInfo.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/twitterApps/tweetsCount.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Actions.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Config.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Filters.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/Logger.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/SparkLoad.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/TwitterCredentials.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Converters.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/DAO.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/Id.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/MongoDbComponent.scala -> 
+AAAAAAAAAAA=
+/Users/mikelalvarezgo/repositories/Spark-Twitter/src/main/scala/utils/mongo/TweetInfoDAO.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjGuZOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjHwLHJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjIAe751cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjIBRtp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjNi/SN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjNji951cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjNlK3x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWjOM4OJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl2CKHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl3G1vJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWl3HkVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9taWtlbGFsdmFyZXpnby9yZXBvc2l0b3JpZXMvU3BhcmstVHdpdHRlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

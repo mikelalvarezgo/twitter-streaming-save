@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0mLoading project definition from /Users/mikelalvarezgo/repositories/Spark-Twitter/project[0m
+[0m[[0minfo[0m] [0mSet current project to Spark-Twitter (in build file:/Users/mikelalvarezgo/repositories/Spark-Twitter/)[0m
+[0m[[0minfo[0m] [0mRunning twitterApps.TweetsCount [0m
+[0m[[32msuccess[0m] [0mTotal time: 21 s, completed 12-feb-2017 11:26:47[0m
